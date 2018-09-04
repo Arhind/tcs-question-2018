@@ -1,0 +1,6 @@
+Write a C program executing these statements
+
+1. Take 3 input strings in 3 separate lines.
+2. Convert string A into uppercase string and lowercase string.
+3. Select string B and replace '$' in place of vowels.
+4. Select string C and replace '#' in place of consonant.
